@@ -1,3 +1,12 @@
+body{
+    color:#fff;
+}
+
+#hero{
+    background: url('/assets/bg.jpg') no-repeat;
+    background-size: cover;
+    background-position: 0 60%;
+}
 
 .navbar{
     width:100%;
@@ -29,4 +38,13 @@
             }
         }
     }
+}
+
+h1{
+    font-size: 3.5em;
+    font-weight: bold;
+}
+
+.hero-img{
+    width: 80%;
 }
