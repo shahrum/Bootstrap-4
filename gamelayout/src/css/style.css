@@ -38,3 +38,24 @@ h1 {
 .feature-wrapper {
   text-transform: capitalize;
   color: #000000; }
+
+#join-container {
+  background: url("/assets/screen1.jpg");
+  background-size: cover; }
+  #join-container h2 {
+    letter-spacing: 4px;
+    font-weight: bold; }
+  #join-container h4 {
+    color: gray; }
+  #join-container .form-control {
+    background: #111111;
+    border: 3px solid #2f2f2f;
+    padding: 10px; }
+  #join-container .btn {
+    border: none;
+    color: #000;
+    padding: 12px;
+    cursor: pointer; }
+  #join-container .btn:hover {
+    color: #999;
+    font-weight: bold; }
