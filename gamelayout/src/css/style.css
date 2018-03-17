@@ -34,3 +34,7 @@ h1 {
 
 .hero-img {
   width: 80%; }
+
+.feature-wrapper {
+  text-transform: capitalize;
+  color: #000000; }
